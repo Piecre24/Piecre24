@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi There 👋
+
+- 🔭 I’m currently working on personal projects 
+- 🌱 I’m currently learning Typescript and more Php
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about 
+- 📫 How to reach me: email me at Piecre24@aol.com
+- 😄 Pronouns: He/him or anything I won't get insulted 
+- ⚡ Fun fact: At any given moment about 0.7% of the world's population are drunk.
 
 <!--
 **Piecre24/Piecre24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
