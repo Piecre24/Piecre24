@@ -2,10 +2,9 @@
 
 - 🔭 I’m currently working on personal projects 
 - 🌱 I’m currently learning Typescript and more Php
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about 
-- 📫 How to reach me: email me at Piecre24@aol.com
+- 🤔 I’m looking for help with project I could collaborate on
+- 💬 Ask me about what I'm doing, I guess being accounted motivate me 
+- 📫 How to reach me: email me at Piecre24@aol.com or talk to me in person if you get the chance ;)
 - 😄 Pronouns: He/him or anything I won't get insulted 
 - ⚡ Fun fact: At any given moment about 0.7% of the world's population are drunk.
 
